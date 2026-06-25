@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.class
+target/
+*.jar
+*.iml
+.idea/
+.vscode/
+node_modules/
+*.wav
+*.mp3
+docs/

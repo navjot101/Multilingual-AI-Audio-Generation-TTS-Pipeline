@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ctx_001",
+    "level": "series",
+    "genre": "fantasy",
+    "text": "The world of Eldoria is shaped by five ancient elemental crystals — Fire, Water, Earth, Air, and Aether. The crystals bind the realm's magic and keep the Veil between worlds intact. When a crystal is disturbed, rifts open and strange creatures cross over. Knights of the Crystal Order patrol the borders, wielding attuned weapons."
+  },
+  {
+    "id": "ctx_002",
+    "level": "arc",
+    "genre": "fantasy",
+    "text": "The Aether Crystal has been stolen from the Spire of Dawn. Without it, the Veil is thinning. The High Council has dispatched Ser Valerius and the young scholar Elara to retrieve it. Their journey takes them through the Whisperwood, a forest where the trees remember everything and nothing is as it seems."
+  },
+  {
+    "id": "ctx_003",
+    "level": "chunk",
+    "genre": "fantasy",
+    "text": "Elara pressed her palm against the mossy bark. The tree shuddered and a low hum rose from the roots. 'It knows we carry crystal shards,' she whispered. Valerius tightened his grip on his sword. Somewhere in the darkness, something was singing — a melody that pulled at the edges of memory."
+  },
+  {
+    "id": "ctx_004",
+    "level": "series",
+    "genre": "thriller",
+    "text": "Mumbai Noir — a city of wet streets, broken streetlights, and secrets buried in every monsoon drain. Inspector Priya Rathod works the night shift out of the Colaba precinct. Her rule: trust nothing you hear, half of what you see, and never take your eyes off the shadows."
+  },
+  {
+    "id": "ctx_005",
+    "level": "arc",
+    "genre": "thriller",
+    "text": "A series of high-profile thefts has hit the art galleries of Kala Ghoda. The only clue is a single playing card left at each scene — the Queen of Spades, pricked with a pin through the crown. Priya suspects the trail leads to an underground auction ring operating out of the old textile mills."
+  },
+  {
+    "id": "ctx_006",
+    "level": "chunk",
+    "genre": "thriller",
+    "text": "The rain hammered the tin roof of the mill as Priya stepped through the gap in the fence. A single bulb swung from a beam, casting long shadows over crates of paintings. Her phone buzzed — a text with no number: 'Turn around, Inspector. You are not the hunter tonight.'"
+  },
+  {
+    "id": "ctx_007",
+    "level": "series",
+    "genre": "fantasy",
+    "text": "Magic in Eldoria comes at a cost. Every spell drains a piece of the caster's memory — small at first, a forgotten name or a misplaced key, but enough casting can empty a person entirely. The Crystal Knights wield enchanted steel instead of magic to preserve their minds. Only the mad and the desperate still weave spells."
+  }
+]
